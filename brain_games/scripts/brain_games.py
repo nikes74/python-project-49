@@ -1,4 +1,4 @@
-def main() -> str:
+def main():
     print('Welcome to the Brain Games!')
 
 
